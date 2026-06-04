@@ -58,7 +58,7 @@ The frontend is deployed on Vercel — no setup needed. Just visit:
 
 **[https://disaster-mis.vercel.app](https://disaster-mis.vercel.app)**
 
-The app supports a **demo mode** — if no backend is connected, you can still explore the full interface using the default admin credentials shown on the login page. No installation required.
+The app supports a **demo mode** — if no backend is connected, you can still explore the full interface using the default credentials provided on the login page. No installation required.
 
 ---
 
@@ -123,5 +123,4 @@ npm run dev
 The frontend dev server will start at `http://localhost:3000`.
 
 ## License
-
-This project is licensed under the ISC License.
+This project is licensed under the MIT License. This is open, feel free to have a look.
