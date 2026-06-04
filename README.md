@@ -18,7 +18,7 @@ The **Smart Disaster Response MIS** is a comprehensive full-stack web applicatio
 - **Role-Based Access Control (RBAC)**: Different dashboards and permissions per user role.
 - **Resource Management**: Track and allocate relief resources effectively.
 - **Incident Reporting**: Formulate and submit detailed incident reports.
-- **RESTful API**: Robust Express backend serving a seamlessly integrated React frontend.
+- **Demo Mode**: Explore the full UI without a backend — default credentials are provided on the login page.
 
 ## Tech Stack
 
@@ -52,11 +52,13 @@ The **Smart Disaster Response MIS** is a comprehensive full-stack web applicatio
 
 ## Getting Started
 
-### Using the App
+### Try the Live Demo
 
 The frontend is deployed on Vercel — no setup needed. Just visit:
 
 **[https://disaster-mis.vercel.app](https://disaster-mis.vercel.app)**
+
+The app supports a **demo mode** — if no backend is connected, you can still explore the full interface using the default admin credentials shown on the login page. No installation required.
 
 ---
 
