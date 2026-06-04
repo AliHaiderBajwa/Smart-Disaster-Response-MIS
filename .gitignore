@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+react ui/smart-disaster-mis/node_modules/
+
+# Environment Variables
+.env
+.env.local
+
+# Build outputs and Caches
+dist/
+react ui/smart-disaster-mis/dist/
+.vercel/
+
