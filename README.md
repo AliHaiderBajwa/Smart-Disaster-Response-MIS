@@ -1,9 +1,10 @@
 # Smart Disaster Response Management Information System (MIS)
+**Live Demo:** [https://disaster-mis.vercel.app](https://disaster-mis.vercel.app)
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success.svg)
 ![React](https://img.shields.io/badge/Frontend-React.js-blue.svg)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js_&_Express-green.svg)
-![SQL Server](https://img.shields.io/badge/Database-MS_SQL_Server-red.svg)
+![Azure SQL](https://img.shields.io/badge/Database-Azure_SQL_Server-blue.svg?logo=microsoftazure)
 
 ## Overview
 The **Smart Disaster Response MIS** is a comprehensive full-stack web application designed to manage, coordinate, and respond to disaster events efficiently. The system facilitates real-time data tracking, resource management, and communication between administrators and responders to ensure a swift and coordinated disaster response.
@@ -26,7 +27,8 @@ The **Smart Disaster Response MIS** is a comprehensive full-stack web applicatio
 - **Bcrypt.js** for password hashing
 
 ### Database
-- **Microsoft SQL Server (MSSQL)**
+- **Microsoft SQL Server (MSSQL)** hosted on **Microsoft Azure**
+
 
 ## Project Structure
 ```text
