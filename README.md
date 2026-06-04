@@ -123,4 +123,4 @@ npm run dev
 The frontend dev server will start at `http://localhost:3000`.
 
 ## License
-This project is licensed under the MIT License. This is open, feel free to have a look.
+This project was developed as an academic submission for the Database Management Systems course at FAST-NUCES, Islamabad. Free to reference for educational purposes.
